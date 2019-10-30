@@ -1,8 +1,8 @@
 # Links
 
-* [Command live Environment](CLE)
+* [Command Live Environment](CLE)
 * [fast-vm Workshop](fastvm-workshop)
 
-* [About](./README.html)
+* [About](./about.html)
 * [template](./template.html)
 
