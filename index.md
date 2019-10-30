@@ -1,4 +1,8 @@
 # Links
-[template](./template.html)
-[CLE](CLE)
+
+* [Command live Environment](CLE)
+* [fast-vm Workshop](fastvm-workshop)
+
+* [About](./README.html)
+* [template](./template.html)
 
