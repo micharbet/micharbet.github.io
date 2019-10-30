@@ -1,4 +1,5 @@
-# Links
+# Michael's micro portal
+Links to friendly projects
 
 ## Command Live Environment
 Enhance your shell with comfort and cool look
@@ -13,7 +14,8 @@ Quickly create virtual machine
 * [fast-vm source](https://github.com/OndrejHome/fast-vm)
 * [official documentation](https://www.famera.cz/blog/fast-vm/user_guide.html)
 
-## nothing more
+## nothing else
+matters
 * [About](./about.html)
 * [template](./template.html)
 
