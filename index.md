@@ -1,7 +1,8 @@
 # Michael's micro portal
 Links to friendly projects
 
-## Command Live Environment
+![CLE](CLE-newlogo-small.png)
+
 Enhance your shell with comfort and cool look
 
 * [CLE page](CLE)
